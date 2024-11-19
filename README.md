@@ -140,9 +140,6 @@ Link: [https://drive.google.com/file/d/1oDcRZhvMNxk9K7TBFchf7LP0ENWiZFgL/view?us
 
 ---
 
-## 📜 License  
-
-This project is licensed under the **NIKHIL** – see the [LICENSE](LICENSE) file for details.
 
 ---
 
