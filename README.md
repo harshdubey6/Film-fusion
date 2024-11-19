@@ -107,15 +107,6 @@ A **web application** built using **Flask**, **MongoDB**, **HTML**, **CSS**, and
 - **Database**: MongoDB  
 - **Frontend**: HTML, CSS, JavaScript  
 - **APIs**: OMDB API, YouTube Data API  
-
----
-
-## 🌐 Demo  
-
-Link: [https://drive.google.com/file/d/18-oYERGVeMPCISavc5Oqy7WiXXWns17I/view?usp=sharing](https://drive.google.com/file/d/18-oYERGVeMPCISavc5Oqy7WiXXWns17I/view?usp=sharing)
-
-Link: [https://drive.google.com/file/d/1oDcRZhvMNxk9K7TBFchf7LP0ENWiZFgL/view?usp=sharing](https://drive.google.com/file/d/1oDcRZhvMNxk9K7TBFchf7LP0ENWiZFgL/view?usp=sharing)
-
 ---
 
 ## 📸 Screenshots
@@ -143,14 +134,4 @@ Link: [https://drive.google.com/file/d/1oDcRZhvMNxk9K7TBFchf7LP0ENWiZFgL/view?us
 
 ---
 
-## 🙌 Acknowledgments  
-
-- [OMDB API](http://www.omdbapi.com/) for movie data  
-- [YouTube Data API](https://developers.google.com/youtube/) for fetching trailers  
-
----
-
-## 📧 Contact  
-
-For any inquiries or support, contact me at **nikhildubey183@gmail.com**.  
 
